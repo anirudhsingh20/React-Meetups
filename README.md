@@ -4,6 +4,8 @@ This is a simple hobby project in order to learn basics of react library.
 
 With this application you can create meetups, add meetups to favorite and view all meetups.
 
+[https://anirudhsingh20.github.io/React-Meetups/](https://anirudhsingh20.github.io/React-Meetups/) (application link)
+
 ## Scripts
 
 In the project directory, you can run:
